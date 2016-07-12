@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/sahil/blogs/blog 3/asyncAwaitExample/src/test/resources/lastNameFile,/home/sahil/blogs/blog 3/asyncAwaitExample/target/scala-2.11/test-classes/lastNameFile)[0m
+[0m[[0mdebug[0m] [0m	(/home/sahil/blogs/blog 3/asyncAwaitExample/src/test/resources/firstNameFile,/home/sahil/blogs/blog 3/asyncAwaitExample/target/scala-2.11/test-classes/firstNameFile)[0m
